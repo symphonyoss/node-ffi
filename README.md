@@ -98,8 +98,20 @@ native hard-coded binding is orders of magnitude faster. So don't just use the
 C version of a function just because it's faster. There's a significant cost in
 FFI calls, so make them worth it.
 
+Contributing
+-------
+
+1. Fork it (<https://github.com/symphonyoss/node-ffi/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Read our [contribution guidelines](.github/CONTRIBUTING.md) and [Community Code of Conduct](https://www.finos.org/code-of-conduct)
+4. Commit your changes (`git commit -am 'Add some fooBar'`)
+5. Push to the branch (`git push origin feature/fooBar`)
+6. Create a new Pull Request
+
 License
 -------
+
+Copyright 2019 Symphony
 
 MIT License. See the `LICENSE` file.
 
